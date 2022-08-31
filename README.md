@@ -1,10 +1,11 @@
-# parallax web site 
+# Parallax web site 🦾
 
 
-I'n this web site I use HTML and CSS. In this project I learn how important is class element.
+👉  I'n this web site I use HTML and CSS. <br> 👉  I learn how important is class element. <br> 👉 I Learn new things about background 
+feature
 
 
-# Demo
+# Demo 🔥
 
 
 
